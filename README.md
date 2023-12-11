@@ -1,5 +1,7 @@
 # Parallax Website
 
+
+
 ## Description
 
 Project aims to create parallax website.
@@ -28,6 +30,9 @@ Project aims to create parallax website.
 ```
 
 ## Expected Outcome
+
+![parallax](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/9c3efba3-2306-488e-8178-0099a227597c)
+
 
 ## Objective
 
