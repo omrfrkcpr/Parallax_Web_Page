@@ -6,7 +6,7 @@ Project aims to create parallax website.
 
 ## Problem Statement
 
-- Our company has recently started on a project that aims to create a parallax website. So my colleagues and i have started to work on the project.
+- Our company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -43,7 +43,7 @@ Project aims to create parallax website.
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-### At the end of the project, students will be able to;
+### At the end of the project, you will be able to;
 
 - improve coding skills within HTML & CSS
 
