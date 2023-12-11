@@ -1,7 +1,5 @@
 # Parallax Website
 
-
-
 ## Description
 
 Project aims to create parallax website.
@@ -23,7 +21,7 @@ Project aims to create parallax website.
     |----bg3.jpg
     |----bg4.jpg
     |----it-logo.png
-|----parallax.gif
+|----ezgif-3-9d398cf615.gif
 |----index.html
 |----style.css
 |----LICENSE
