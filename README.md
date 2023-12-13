@@ -21,7 +21,7 @@ Project aims to create parallax website.
     |----bg3.jpg
     |----bg4.jpg
     |----it-logo.png
-|----ezgif-1-74eb11031e.gif
+|----ezgif-3-7919059715.gif
 |----index.html
 |----style.css
 |----LICENSE
