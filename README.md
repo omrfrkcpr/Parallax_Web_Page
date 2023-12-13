@@ -6,7 +6,7 @@ Project aims to create parallax website.
 
 ## Problem Statement
 
-- Our company has recently started on a project that aims to create a parallax website. So my colleagues and i have started to work on the project.
+- Our company has recently started on a project that aims to create a parallax website. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -29,7 +29,7 @@ Project aims to create parallax website.
 
 ## Expected Outcome
 
-https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/5eb29676-4b9f-4409-891e-e94b1c07bd3e
+![ezgif-1-74eb11031e](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/d9e9b395-4ac7-4d5b-80eb-3204f3ac15c5)
 
 ## Objective
 
@@ -43,7 +43,7 @@ https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/5eb29676-4b9f-440
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-### At the end of the project, students will be able to;
+### At the end of the project, you will be able to;
 
 - improve coding skills within HTML & CSS
 
