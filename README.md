@@ -29,7 +29,7 @@ Project aims to create parallax website.
 
 ## Expected Outcome
 
-![ezgif-1-74eb11031e](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/d9e9b395-4ac7-4d5b-80eb-3204f3ac15c5)
+![ezgif-3-7919059715](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/8f46cca3-d264-46f9-af80-ab7e203bf0a8)
 
 ## Objective
 
