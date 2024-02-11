@@ -27,26 +27,20 @@ Project aims to create parallax website.
 |----LICENSE
 ```
 
-## Expected Outcome
+## Outcome
 
 ![ezgif-3-7919059715](https://github.com/omrfrkcpr/Parallax_Web_Page/assets/77440899/8f46cca3-d264-46f9-af80-ab7e203bf0a8)
 
-## Objective
-
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are covered;
 
 - HTML
-
 - List Properties
-
 - Overflow Property-The float Property-Opacity / Transparency-Units in CSS
-
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-### At the end of the project, you will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS
-
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
+  
 <p align="center"> <strong>⌛ Happy Coding  ✍ </strong> </p>
