@@ -1,5 +1,7 @@
 # Parallax Website
 
+https://omrfrkcpr.github.io/Parallax_Web_Page/
+
 ## Description
 
 Project aims to create parallax website.
